@@ -11,6 +11,7 @@ export ICON=https://raw.githubusercontent.com/caoccao/BetterMediaInfo/refs/heads
 export DESKTOP=PATH_OR_URL_TO_DESKTOP_ENTRY
 export DEPLOY_GTK=1
 export GTK_DIR=gtk-3.0
+export ALWAYS_SOFTWARE=1
 
 # Deploy dependencies
 quick-sharun /PATH/TO/BINARY_AND_LIBRARIES_HERE
